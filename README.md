@@ -1,5 +1,4 @@
-My projects are:
+# bacon. [Bacon SVG](https://cdn-baconbirdheadv2.onrender.com/main/gitMD/general/bacon.svg)
 
-Free prodigy math membership:
-
-bit.ly/3WrOe1P
+Current projects:
+> [BaconGamz](https://github.com/DaBaconKing/bacongames)
